@@ -2,7 +2,7 @@
 
 A simple asteroids-like game written in Python using Pygame.
 
-#To-do:
+# To-do:
 [] Add a scoring system
 [] Implement multiple lives and respawning
 [] Add an explosion effect for the asteroids
